@@ -44,3 +44,7 @@ bool isalready(id) {
     return false;
   }
 }
+
+class The{
+  
+}
